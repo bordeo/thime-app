@@ -4,8 +4,11 @@
     "description": "Tracking Time for Human Resources",
     "slug": "thime",
     "privacy": "unlisted",
-    "sdkVersion": "33.0.0",
-    "platforms": ["ios", "android"],
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "5",
     "orientation": "portrait",
     "icon": "./assets/green/icon-with-bg.png",
@@ -17,7 +20,9 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.alexbordin.thime"

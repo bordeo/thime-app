@@ -2,7 +2,9 @@ import React from "react";
 import { StatusBar, StyleSheet, View, YellowBox } from "react-native";
 import AppNavigator from "./src/navigation/AppNavigator";
 import env from "./src/config/env";
-import { AppLoading, Asset, Localization } from "expo";
+import { AppLoading } from "expo";
+import { Asset } from "expo-asset";
+import * as Localization from "expo-localization";
 import { SafeAreaView } from "react-navigation";
 import colors, { currentTheme } from "./src/config/colors";
 
