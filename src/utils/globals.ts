@@ -1,4 +1,4 @@
-import { Localization } from "expo";
+import * as Localization from 'expo-localization';
 
 const globalLangCode = Localization.locale.replace(/[-_][a-z]+$/i, "");
 

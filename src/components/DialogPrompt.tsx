@@ -2,7 +2,7 @@ import * as React from "react";
 import { StyleSheet } from "react-native";
 // @ts-ignore
 import Dialog from "react-native-dialog";
-import { BlurView } from "expo";
+import { BlurView } from 'expo-blur';
 
 type Props = {
   title: string;

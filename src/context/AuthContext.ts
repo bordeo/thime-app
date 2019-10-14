@@ -1,10 +1,9 @@
 import * as React from "react";
 import hoistNonReactStatic from "hoist-non-react-statics";
-import { Member } from "../types/Member";
 
 export type AuthContextProps = {
   authToken?: string;
-  currentUser?: Member;
+  currentUser?: {};
   onNewAuthToken: (authToken: string) => Promise<void>;
   logout: () => Promise<void>;
 };
