@@ -4,7 +4,7 @@
     "description": "Tracking Time for Human Resources",
     "slug": "thime",
     "privacy": "unlisted",
-    "sdkVersion": "34.0.0",
+    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android"
