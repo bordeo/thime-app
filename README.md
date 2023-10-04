@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://thime.app">THime App landing page</a>
+  <a href="https://thime.bordin.cloud">THime App landing page</a>
 </p>
 
 Simple **Time** **T**racker for your **H**uman Resources.
@@ -19,16 +19,16 @@ This project was born mainly to assist the [Movembik](https://www.facebook.com/M
 ## Screenshots
 
 <p align="center" margin-bottom="0">
-  <a href="https://thime.app">
+  <a href="https://thime.bordin.cloud">
     <img alt="THime" width="200" height="auto" src="./.github/Screenshot_en_agenda.png">
   </a>
-  <a href="https://thime.app">
+  <a href="https://thime.bordin.cloud">
     <img alt="THime" width="200" height="auto" src="./.github/Screenshot_en_employees.png">
   </a>
-    <a href="https://thime.app">
+    <a href="https://thime.bordin.cloud">
     <img alt="THime" width="200" height="auto" src="./.github/Screenshot_en_totals.png">
   </a>
-  <a href="https://thime.app">
+  <a href="https://thime.bordin.cloud">
     <img alt="THime" width="200" height="auto" src="./.github/Screenshot_en_new_resource.png">
   </a>
 </p>
